@@ -1,0 +1,40 @@
+.form{
+width: 1000px;
+background-color: transparent;
+border: 3px solid rgb(137, 229, 229);
+box-sizing: border-box;
+box-shadow: 10px 10px 20px rgb(25, 69, 69);
+}
+#ex{
+  font-weight: bold;
+  text-decoration-color: rgb(98, 201, 201);
+  text-shadow: 4px 5px 15px black;
+}
+h1{
+  margin-left: 10px;
+}
+p{
+  margin-left: 10px;
+}
+h1{
+  margin-left: 10px;
+  text-align:right;
+}
+.btn{
+  margin-left: 10px;
+}
+.p{
+text-align: right;
+}
+.pr{
+  text-align: right;
+  margin-right: 16px;
+
+}
+body{
+  background-color: white;
+}
+#flexSwitchCheckDefault{
+  margin-left: 2px;
+  margin-right: 2px;
+}
